@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rbioapi"]
+	path = rbioapi
+	url = https://github.com/moosa-r/rbioapi
+	shallow = true
+	registered = true
